@@ -1,0 +1,8 @@
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\bin\Debug\OOP(2)_WorkWithProperties.exe.config
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\bin\Debug\OOP(2)_WorkWithProperties.exe
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\bin\Debug\OOP(2)_WorkWithProperties.pdb
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\obj\Debug\OOP(2)_WorkWithProperties.csproj.AssemblyReference.cache
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\obj\Debug\OOP(2)_WorkWithProperties.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\obj\Debug\OOP(2)_WorkWithProperties.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\obj\Debug\OOP(2)_WorkWithProperties.exe
+C:\Users\Xiaomi\source\repos\OOP(2)_WorkWithProperties\OOP(2)_WorkWithProperties\obj\Debug\OOP(2)_WorkWithProperties.pdb
