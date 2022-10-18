@@ -13,17 +13,17 @@ namespace OOP_2__WorkWithProperties
             Renderer render = new Renderer();
             Player player = new Player(10, 10);
 
-            render.DrowPlayer(player.PositionX, player.PositionY);
+            render.DrawPlayer(player.PositionX, player.PositionY);
             Console.ReadKey();
         }
     }
 
     class Renderer
     {
-        public void DrowPlayer(int x, int y, char simbol = '+')
+        public void DrawPlayer(int playerX, int playerY, char symbol = '+')
         {
-            Console.SetCursorPosition(x, y);
-            Console.Write(simbol);
+            Console.SetCursorPosition(playerX, playerY);
+            Console.Write(symbol);
         }
     }
 
@@ -33,10 +33,10 @@ namespace OOP_2__WorkWithProperties
 
         public int PositionY { get; private set; }
 
-        public Player(int playerX, int playerY)
+        public Player(int playerPositionX, int playerPositionY)
         {
-            PositionX = playerX;
-            PositionY = playerY;
+            PositionX = playerPositionX;
+            PositionY = playerPositionY;
         }
         
     }
